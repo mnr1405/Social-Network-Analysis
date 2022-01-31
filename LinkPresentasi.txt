@@ -1,0 +1,4 @@
+link: https://drive.google.com/file/d/1VBLTvQaqn6L-kk3gke5IC_cB1ellpGxp/view?usp=sharing
+
+penjelasan: nama dataset nya di rename agar lebih mudah dari crawling-ouput.csv 
+	menjadi dataset.csv
